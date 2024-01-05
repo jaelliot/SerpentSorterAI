@@ -28,6 +28,9 @@ git clone https://github.com/yourusername/SerpentSorterAI.git
 cd SerpentSorterAI
 ```
 3. Install required packages:
+```
+pip install requirements.txt
+```
 
 ## Usage
 1. Place your text data files in the designated input folder.
